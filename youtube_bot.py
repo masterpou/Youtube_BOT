@@ -4,7 +4,7 @@ import time
 import os
 
 url = str(input('Enter your youtube video URL : '))
-browser = str(input("Enter the browser that you want use : ")).lower()
+browser = str(input("Enter the browser that you want use : "))
 repeat_time = int(input("How many view you wanna add : "))
 delail = 10
 
